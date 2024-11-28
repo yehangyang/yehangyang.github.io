@@ -1,0 +1,1386 @@
+{
+    "root": {
+        "data": {
+            "id": "d5owki4wvr40",
+            "created": 1731892263389,
+            "text": "AI Stack",
+            "expandState": "expand"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d5q4s4guou00",
+                    "created": 1732016989385,
+                    "text": "硬件",
+                    "expandState": "expand",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d5q5n6bie7k0",
+                            "created": 1732019422705,
+                            "text": "计算",
+                            "layout": null,
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d5q5p7jtbds0",
+                                    "created": 1732019582112,
+                                    "text": "算力",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5q5p8yv6q80",
+                                            "created": 1732019585199,
+                                            "text": "计算类型",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q5pbnexco0",
+                                                    "created": 1732019591037,
+                                                    "text": "Tensor",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5pderpiw0",
+                                                    "created": 1732019594868,
+                                                    "text": "Vector",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5pfdq6000",
+                                                    "created": 1732019599158,
+                                                    "text": "Scalar",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q5pjts87c0",
+                                            "created": 1732019608836,
+                                            "text": "精度类型",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q5pm9es7s0",
+                                                    "created": 1732019614135,
+                                                    "text": "FP32/TF32",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5ppernxs0",
+                                                    "created": 1732019620989,
+                                                    "text": "BF16/FP16",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5psu5j9k0",
+                                                    "created": 1732019628449,
+                                                    "text": "FP8",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5puhhyc00",
+                                                    "created": 1732019632038,
+                                                    "text": "INT8",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5pwhl6680",
+                                                    "created": 1732019636397,
+                                                    "text": "FP4",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d5q5q7ad6xk0",
+                                    "created": 1732019659905,
+                                    "text": "可扩展性",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5q5qab9k6o0",
+                                            "created": 1732019666489,
+                                            "text": "算子类型",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q5qey1dcw0",
+                                                    "created": 1732019676574,
+                                                    "text": "Gemm",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5qi1kbfs0",
+                                                    "created": 1732019683317,
+                                                    "text": "Element-wise",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5qkwufo00",
+                                                    "created": 1732019689562,
+                                                    "text": "Transcendental",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q5r3eexrs0",
+                                            "created": 1732019729807,
+                                            "text": "Dynamic Graph & Dynamic Shape",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q5rbc7gp40",
+                                                    "created": 1732019747087,
+                                                    "text": "e.g.",
+                                                    "expandState": "expand",
+                                                    "layout": null
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d5q5reybxig0",
+                                                            "created": 1732019754955,
+                                                            "text": "MoE(GShard)",
+                                                            "layout": null,
+                                                            "expandState": "expand"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d5q5rkkpj7s0",
+                                                            "created": 1732019767192,
+                                                            "text": "MoD",
+                                                            "layout": null,
+                                                            "expandState": "expand"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d5q5rmkajq80",
+                                                            "created": 1732019771521,
+                                                            "text": "LLM Decoding",
+                                                            "layout": null,
+                                                            "expandState": "expand"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d5q5rqcs93s0",
+                                                            "created": 1732019779774,
+                                                            "text": "Conditional Diffusion Model",
+                                                            "layout": null,
+                                                            "expandState": "expand"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d5q5rw156ko0",
+                                                            "created": 1732019792131,
+                                                            "text": "KV Dynamic Sparsity",
+                                                            "layout": null,
+                                                            "expandState": "expand"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d5q5s7ay3ds0",
+                                    "created": 1732019816668,
+                                    "text": "异步执行",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5q5vtfxrzs0",
+                                            "created": 1732020099952,
+                                            "text": "并行/并发",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q5vvwy3b40",
+                                                    "created": 1732020105334,
+                                                    "text": "Tensor/Vector/Scalar",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5w1dt4cw0",
+                                                    "created": 1732020117237,
+                                                    "text": "计算与访存 Overlap",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q5wgv29ww0",
+                                            "created": 1732020150932,
+                                            "text": "Multi-Stream",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q5wlknbl40",
+                                            "created": 1732020161186,
+                                            "text": "Event 和 Multi-Stream 通信",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q5wuljjs00",
+                                            "created": 1732020180832,
+                                            "text": "同步语义",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d5q5n9o6zgw0",
+                            "created": 1732019430002,
+                            "text": "存储",
+                            "layout": null,
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d5q5x2wlo0w0",
+                                    "created": 1732020198914,
+                                    "text": "性能",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5q5x7ejm6w0",
+                                            "created": 1732020208707,
+                                            "text": "高带宽：Cf. H100 HBM 3.35TB/s",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q5xtg46io0",
+                                            "created": 1732020256691,
+                                            "text": "大容量：Cf. H100 80G",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d5q5y5d4odk0",
+                                    "created": 1732020282632,
+                                    "text": "Tensor 原生支持",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5q5yaeqdu80",
+                                            "created": 1732020293612,
+                                            "text": "统一内存编址",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q5yvhdijk0",
+                                            "created": 1732020339485,
+                                            "text": "Pointer Addressing + 多维张量寻址",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q5z4xnb8o0",
+                                            "created": 1732020360060,
+                                            "text": "内存布局",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q5zat65vc0",
+                                            "created": 1732020372850,
+                                            "text": "Tail handling",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d5q5ncl6yrs0",
+                            "created": 1732019436351,
+                            "text": "互联",
+                            "layout": null,
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d5q5zhc8hqg0",
+                                    "created": 1732020387063,
+                                    "text": "Scale Up",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5q5zobk7680",
+                                            "created": 1732020402260,
+                                            "text": "高带宽：Cf. NVLink 900G/s",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q6019n60g0",
+                                            "created": 1732020430442,
+                                            "text": "All2All 互联",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q608aftww0",
+                                            "created": 1732020445728,
+                                            "text": "SuperPod：Cf. NVL36, NVL72",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d5q5zk9cuaw0",
+                                    "created": 1732020393419,
+                                    "text": "Scale Out",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5q60l6tjts0",
+                                            "created": 1732020473807,
+                                            "text": "算力可扩展：万卡级别大模型计算集群",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q60yy0kr40",
+                                            "created": 1732020503750,
+                                            "text": "带宽收敛比 1:1（理想情况）",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d5q5negz0j40",
+                            "created": 1732019440450,
+                            "text": "端侧 EEA 架构：跨域融合",
+                            "layout": null,
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d5q61b8rouo0",
+                                    "created": 1732020530521,
+                                    "text": "算力池化",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5q61ee30gg0",
+                                            "created": 1732020537373,
+                                            "text": "安全隔离",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q61hncs740",
+                                            "created": 1732020544464,
+                                            "text": "计算调度",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d5q61ki4e7s0",
+                                    "created": 1732020550678,
+                                    "text": "跨域通信",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d5q4rr3wi8w0",
+                    "created": 1732016960304,
+                    "text": "软件",
+                    "layout": null,
+                    "expandState": "expand"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "d5q4s9jyvdk0",
+                    "created": 1732017000458,
+                    "text": "算法",
+                    "expandState": "expand",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d5owkr6odoo0",
+                            "created": 1731892283087,
+                            "text": "LLM",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d5v1t49gzds0",
+                                    "created": 1732516403757,
+                                    "text": "模型结构",
+                                    "expandState": "expand",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5v1t9ms1c00",
+                                            "created": 1732516415445,
+                                            "text": "Encoder-Only\n理解和分析任务",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5v1uqfpsco0",
+                                                    "created": 1732516530387,
+                                                    "text": "BERT",
+                                                    "expandState": "expand",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5v1tdgflow0",
+                                            "created": 1732516423769,
+                                            "text": "Decoder-Only\n生成类任务",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5v1ukrodu80",
+                                                    "created": 1732516518050,
+                                                    "text": "GPT 系列",
+                                                    "expandState": "expand",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5v1tim1zyo0",
+                                            "created": 1732516434992,
+                                            "text": "Encoder-Decoder\n语言模型和机器翻译",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5v1uu4lou00",
+                                                    "created": 1732516538423,
+                                                    "text": "T5",
+                                                    "expandState": "expand",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d5q4nx2fsrc0",
+                                    "created": 1732016659819,
+                                    "text": "Fine Tuning",
+                                    "expandState": "expand",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5owr0j48kg0",
+                                            "created": 1731892773615,
+                                            "text": "SFT\nSupervisor Fine Tuning",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5owrcg7zog0",
+                                            "created": 1731892799561,
+                                            "text": "RLHF\nReinforcement Learning from Human Feedback",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q4ktitfy00",
+                                            "created": 1732016417010,
+                                            "text": "LoRA\nLow-Rank Adaptation of Large Language Models",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d5q4xgvljlk0",
+                                    "created": 1732017408219,
+                                    "text": "训练范式：Pertrain -> SFT -> RLHF",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d5q4nl6k4940",
+                            "created": 1732016633947,
+                            "text": "Diffusion",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d5q4nrgxkdc0",
+                                    "created": 1732016647635,
+                                    "text": "Fine Tuning",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5q4oiqjegw0",
+                                            "created": 1732016706989,
+                                            "text": "ControlNet",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d5q4vx8a4ns0",
+                            "created": 1732017287086,
+                            "text": "AD",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d5q50920iu80",
+                                    "created": 1732017626285,
+                                    "text": "端到端大模型",
+                                    "expandState": "expand",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5q519zgm5c0",
+                                            "created": 1732017706672,
+                                            "text": "without 语言模型",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q51hhsf680",
+                                                    "created": 1732017723017,
+                                                    "text": "UniAD\nCVPR Best Paper",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q51n4xg6o0",
+                                                    "created": 1732017735300,
+                                                    "text": "VAD\n地平线",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q51oux50w0",
+                                                    "created": 1732017739049,
+                                                    "text": "PLUTO\n华为 ADS",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q51tfkf9s0",
+                                                    "created": 1732017749004,
+                                                    "text": "Hydra-MDP\nCVPR 1st",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q520rzx9s0",
+                                                    "created": 1732017764993,
+                                                    "text": "ParaDrive\nNVIDIA OneModel",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q52zw8z4w0",
+                                            "created": 1732017841438,
+                                            "text": "with 语言模型",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q53jjl9yw0",
+                                                    "created": 1732017884208,
+                                                    "text": "CarLLaVA\nWayve",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q53q0p7mo0",
+                                                    "created": 1732017898303,
+                                                    "text": "TOKEN\nNVIDIA",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q54aar4x40",
+                                                    "created": 1732017942447,
+                                                    "text": "DriveLM\n上海 AI Lab",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q54mru0k00",
+                                                    "created": 1732017969601,
+                                                    "text": "PlanAgent\nLiAuto",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q551nv42o0",
+                                            "created": 1732018002013,
+                                            "text": "双系统",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q557lj89s0",
+                                                    "created": 1732018014933,
+                                                    "text": "DriveVLM\nLiAuto 自动驾驶领域",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q55bwdnvk0",
+                                                    "created": 1732018024295,
+                                                    "text": "RFST\n具身智能领域",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d5q50hfxxcg0",
+                                    "created": 1732017644541,
+                                    "text": "自监督预训练",
+                                    "expandState": "expand",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5q565is93k0",
+                                            "created": 1732018088777,
+                                            "text": "传感器预训练",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q56speonc0",
+                                                    "created": 1732018139243,
+                                                    "text": "BEVWorld\nBaidu",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5728akdk0",
+                                                    "created": 1732018159977,
+                                                    "text": "Copilot4D\nWabbi",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q56bshtcg0",
+                                            "created": 1732018102425,
+                                            "text": "Occ 预训练",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q5705ojxs0",
+                                                    "created": 1732018155465,
+                                                    "text": "OccWorld\n清华鲁继文团队",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q57v7u55s0",
+                                                    "created": 1732018223075,
+                                                    "text": "OccSora\n清华鲁继文团队",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q56j7m75s0",
+                                            "created": 1732018118577,
+                                            "text": "轨迹预训练",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q58d7kmb40",
+                                                    "created": 1732018262242,
+                                                    "text": "ParaDrive\nNVIDIA OneModel",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q58mo7jg00",
+                                                    "created": 1732018282839,
+                                                    "text": "STR\n清华赵行团队",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d5q50n8znaw0",
+                                    "created": 1732017657182,
+                                    "text": "强化学习",
+                                    "expandState": "expand",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5q593otlzs0",
+                                            "created": 1732018319881,
+                                            "text": "对比学习",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q5977sygo0",
+                                                    "created": 1732018327559,
+                                                    "text": "PLUTO\n华为 ADS",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q59gytpe80",
+                                            "created": 1732018348784,
+                                            "text": "PPO/A3C",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q59pil6t40",
+                                                    "created": 1732018367393,
+                                                    "text": "SEM2\nNIPS 2022",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q59ydbnz40",
+                                                    "created": 1732018386666,
+                                                    "text": "GUMP\n地平线",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q5a8pe4ww0",
+                                            "created": 1732018409164,
+                                            "text": "MCTS",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q5aeq63zc0",
+                                                    "created": 1732018422271,
+                                                    "text": "MuZero\nDeepMind",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5awx23dc0",
+                                                    "created": 1732018461870,
+                                                    "text": "UniZero\n上海 AI Lab",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d5q50r2qie80",
+                                    "created": 1732017665511,
+                                    "text": "世界模型",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5q5btqhhsw0",
+                                            "created": 1732018533306,
+                                            "text": "数据生成/仿真",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q5c6cdrb40",
+                                                    "created": 1732018560752,
+                                                    "text": "Delphi\nLiAuto",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5cdwoh9c0",
+                                                    "created": 1732018577216,
+                                                    "text": "DriveArena\n上海 AI Lab",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q5bydf7pk0",
+                                            "created": 1732018543400,
+                                            "text": "生成式模型",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q5cccpsxk0",
+                                                    "created": 1732018573832,
+                                                    "text": "ADrive-I\n旷视科技",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5d55or600",
+                                                    "created": 1732018636534,
+                                                    "text": "DriveWM\n中科院",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d5q50zeeszs0",
+                                    "created": 1732017683631,
+                                    "text": "架构设计",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d5q5e4kkijc0",
+                                            "created": 1732018713621,
+                                            "text": "Diffusion Policy",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q5e8nbdds0",
+                                                    "created": 1732018722495,
+                                                    "text": "MotionDiffuser\nWaymo",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5efkblrc0",
+                                                    "created": 1732018737551,
+                                                    "text": "Diffusion-ES\nCMU",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q5f2xz3a00",
+                                            "created": 1732018788443,
+                                            "text": "Transformer AR",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q5f8mdh7k0",
+                                                    "created": 1732018800802,
+                                                    "text": "DriveMLM\n上海 AI Lab",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5fmormtk0",
+                                                    "created": 1732018831421,
+                                                    "text": "RT-X\nGoogle DeepMind",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5ftgccx40",
+                                                    "created": 1732018846150,
+                                                    "text": "OpenVLA\nGoogle DeepMind",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q5g5zpyrs0",
+                                            "created": 1732018873443,
+                                            "text": "Sparse 架构",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q5gdn3fmo0",
+                                                    "created": 1732018890093,
+                                                    "text": "SparseAD\n中科院",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5gtpgl6w0",
+                                                    "created": 1732018925065,
+                                                    "text": "SparseDrive\n地平线",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q5h6qm5400",
+                                            "created": 1732018953433,
+                                            "text": "隐世界模型",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q5hekxul40",
+                                                    "created": 1732018970504,
+                                                    "text": "LAW\n中科院",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q5hxcwkl40",
+                                            "created": 1732019011377,
+                                            "text": "Mamba",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q5i0trh280",
+                                                    "created": 1732019018927,
+                                                    "text": "DRAMA\n新加坡国立",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d5q5ig6c89s0",
+                                            "created": 1732019052339,
+                                            "text": "Test-Time",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d5q5iji64xc0",
+                                                    "created": 1732019059585,
+                                                    "text": "TTT\nStanford",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d5q5io7sr880",
+                                                    "created": 1732019069841,
+                                                    "text": "TTC\nDeepMind/OpenAI",
+                                                    "layout": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
